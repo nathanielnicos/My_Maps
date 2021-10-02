@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Maps</string>
+    <string name="mapbox_access_token" tools:ignore="Typos">pk.eyJ1IjoibmF0aGFuaWVsbmljb3MiLCJhIjoiY2twanRmZnhwMzF1bjJybGE3dXkwd2d1YyJ9.KTcIeUR0NeTaiMwJbh_lxA</string>
+</resources>
